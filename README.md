@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miaoruining
 - 👀 I’m interested in all things
-- 🌱 I’m currently learning mmlab
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CV 
+- 💞️ I am a student of Henan University of Technology
 - 📫 How to reach me ...
 
 <!---
